@@ -1,0 +1,85 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Consero.dll.config
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Consero.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Consero.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\obj\Debug\Consero.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\consero files\Intacctsettings\Consero\obj\Debug\Consero.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Consero.dll.config
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Consero.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Consero.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Runtime.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Licensing.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.DateTime.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.HtmlParser.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Ionic.Utils.Zip.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\SourceSafe.Interop.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Search.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.DiffPatch.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Ferret.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Utilities.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.AppDomainTools.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Interop.ADOX.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Interop.ADODB.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Mail.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Util.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Irony.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogBugz.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogBugz.xml
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Database.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Plugins.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Plugins.xml
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Runtime.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Runtime.xml
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Licensing.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.DateTime.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.HtmlParser.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Ionic.Utils.Zip.xml
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Search.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.DiffPatch.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Ferret.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.Utilities.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\FogCreek.AppDomainTools.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Mail.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\bin\Debug\Wasabi.Util.pdb
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\obj\Debug\IntacctSettings.csprojResolveAssemblyReference.cache
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\obj\Debug\Consero.dll
+C:\Users\pramalingappa\Documents\GitHub\Consero-APWF\APWFNew\Consero-APWF\Consero Fogbugz Plugin\conserofiles\Intacctsettings\Consero\obj\Debug\Consero.pdb
